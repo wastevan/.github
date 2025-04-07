@@ -6,7 +6,7 @@ Traditional waste management systems often lack transparency, accountability, an
 
 ## Our Team
 
-## EcoConnect
+## WasteVan
 
 Blockchain technology to enhance transparency and efficiency. 
 
@@ -24,7 +24,7 @@ Municipalities and NGOs focused on waste management solutions.
 
 ## Product Overview 
 
-EcoConnect is a decentralized application (DApp) that allows users to report plastic waste collection, earn tokens, and track the lifecycle of their waste. Agents verify collections and ensure responsible disposal, with a streamlined process facilitated by QR code technology. 
+WasteVan is a decentralized application (DApp) that allows users to report plastic waste collection, earn tokens, and track the lifecycle of their waste. Agents verify collections and ensure responsible disposal, with a streamlined process facilitated by QR code technology. 
 
  
 
@@ -51,7 +51,7 @@ Performance Analytics: Agents can track collection statistics.
  
 
 ## Technology Stack 
-EcoConnect is built on the Ethereum blockchain, chosen for its robust smart contract capabilities and widespread adoption. 
+WasteVan is built on the Ethereum blockchain, chosen for its robust smart contract capabilities and widespread adoption. 
 
 Technical architecture of EcoConnect:  
 
@@ -75,7 +75,7 @@ Secure wallet management and encryption of sensitive data.
 
 ## User Experience 
 
-EcoConnect is designed to be user-friendly, encouraging widespread adoption and participation. 
+WasteVan is designed to be user-friendly, encouraging widespread adoption and participation. 
 
 How users interact with EcoConnect:  
 
@@ -93,7 +93,7 @@ Track the lifecycle of their collected plastic.
 
 View community impact and participate in events. 
 
-## How Agents Interact with EcoConnect 
+## How Agents Interact with WasteVan 
 
 Sign up and create a profile. NB: An agent would be required to buy some points during the registration process 
 
@@ -171,7 +171,7 @@ Educational Outreach Programs:
 
 Implement outreach programs to schools and educational institutions to educate students about plastic pollution, recycling, and sustainable waste management practices. These programs will include interactive workshops, presentations, and hands-on activities. 
 
-Building a Community Around EcoConnect:  
+Building a Community Around WasteVan:  
 
 Active social media presence on platforms like Twitter, Instagram, and relevant environmental forums. 
 
@@ -196,7 +196,7 @@ Regular updates and newsletters on platform developments, environmental news, an
  
 
 ## Conclusions 
-EcoConnect is poised to revolutionize the way communities and individuals manage plastic waste. By leveraging blockchain technology, we create a transparent, accountable, and incentivized ecosystem that ensures the responsible collection and tracking of plastic waste. Our vision is to build a global community of environmentally conscious individuals, agents, and organizations, connected through the power of decentralized technology to combat plastic pollution and promote a circular economy. 
+WasteVan is poised to revolutionize the way communities and individuals manage plastic waste. By leveraging blockchain technology, we create a transparent, accountable, and incentivized ecosystem that ensures the responsible collection and tracking of plastic waste. Our vision is to build a global community of environmentally conscious individuals, agents, and organizations, connected through the power of decentralized technology to combat plastic pollution and promote a circular economy. 
 
 By integrating innovative features like QR code tracking, agent verification, and community-driven initiatives, EcoConnect addresses the critical need for transparent and efficient waste management solutions. The platform's commitment to lifecycle tracking and data-driven insights empowers users and stakeholders to make informed decisions and contribute to a sustainable future. 
 
