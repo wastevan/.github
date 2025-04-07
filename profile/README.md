@@ -93,5 +93,31 @@ Track the lifecycle of their collected plastic.
 
 View community impact and participate in events. 
 
+## How Agents Interact with EcoConnect 
+
+Sign up and create a profile. NB: An agent would be required to buy some points during the registration process 
+
+The agent would have to approved by admin after he creates a profile before he can perform the activities of an agent 
+
+After approval, he can go around and collect the plastics and reward the users accordingly 
+
+He can purchase more points when he runs out of points. 
+
+## Onboarding process  
+
+Simplified sign-up process with wallet integration. 
+
+In-app tutorials on how to report waste and understand the QR code system. 
+
+Clear and concise information about the token reward system and its benefits. 
+
+Clear and concise information about the benefits of participating. 
+
+## Example use cases and scenarios:  
+
+Household waste collection: A user reports plastic bottles and containers, receives a QR code, and an agent collects them, triggering token distribution. 
+
+Agent-driven collection: Agents receive notifications for nearby waste reports, efficiently collect waste, and confirm collection with QR code scans. 
+
 
 
