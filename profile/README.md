@@ -6,7 +6,7 @@ Traditional waste management systems often lack transparency, accountability, an
 
 ## Our Team
 
-##EcoConnect
+## EcoConnect
 
 Blockchain technology to enhance transparency and efficiency. 
 
@@ -22,7 +22,7 @@ Corporations seeking to improve their environmental footprint.
 
 Municipalities and NGOs focused on waste management solutions. 
 
-##Product Overview 
+## Product Overview 
 
 EcoConnect is a decentralized application (DApp) that allows users to report plastic waste collection, earn tokens, and track the lifecycle of their waste. Agents verify collections and ensure responsible disposal, with a streamlined process facilitated by QR code technology. 
 
