@@ -50,7 +50,48 @@ Performance Analytics: Agents can track collection statistics.
 
  
 
-Technology Stack 
+## Technology Stack 
+EcoConnect is built on the Ethereum blockchain, chosen for its robust smart contract capabilities and widespread adoption. 
+
+Technical architecture of EcoConnect:  
+
+Smart Contracts: Written in Solidity, managing token distribution, waste tracking, and agent verification. 
+
+Frontend: Next.js 15 (App Router), React, and TailwindCSS for a responsive user interface. 
+
+Web3 Integration: ethers.js for interacting with the Ethereum blockchain. 
+
+Authentication: MetaMask wallet integration for secure user access. 
+
+Data Storage: On-chain for critical transaction data and off-chain for user profiles and non-sensitive information. 
+
+Security measures and protocols:  
+
+Smart contract audits by reputable third-party firms. 
+
+Secure wallet management and encryption of sensitive data. 
+
+ 
+
+## User Experience 
+
+EcoConnect is designed to be user-friendly, encouraging widespread adoption and participation. 
+
+How users interact with EcoConnect:  
+
+Sign up and create a profile. 
+
+Report plastic waste collection, specifying the type and quantity. 
+
+Receive a generated QR code for the reported waste. 
+
+Await notification and collection by a verified agent. 
+
+Receive tokens automatically upon agent QR code scan. 
+
+Track the lifecycle of their collected plastic. 
+
+View community impact and participate in events. 
 
 
 
