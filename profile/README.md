@@ -12,13 +12,13 @@ Potential for growth in blockchain-based waste management: The increasing adopti
 
 Target audience and demographics:  
 
-Environmentally conscious individuals and households. 
+* Environmentally conscious individuals and households. 
 
-Waste collection agents and recycling facilities. 
+* Waste collection agents and recycling facilities. 
 
-Corporations seeking to improve their environmental footprint. 
+* Corporations seeking to improve their environmental footprint. 
 
-Municipalities and NGOs focused on waste management solutions. 
+* Municipalities and NGOs focused on waste management solutions. 
 
 ## Product Overview 
 
@@ -28,23 +28,23 @@ WasteVan is a decentralized application (DApp) that allows users to report plast
 
 Key features and functionalities:  
 
-Plastic waste reporting and QR code generation: Users report plastic waste, and the system generates a unique QR code for each submission. 
+1) Plastic waste reporting and QR code generation: Users report plastic waste, and the system generates a unique QR code for each submission. 
 
-Agent notification: Agents within the user's region receive real-time notifications of available waste collection requests. 
+2) Agent notification: Agents within the user's region receive real-time notifications of available waste collection requests. 
 
-Agent waste collection and QR code scanning: Agents collect the waste and scan the user's QR code to confirm collection. 
+3) Agent waste collection and QR code scanning: Agents collect the waste and scan the user's QR code to confirm collection. 
 
-Automated token distribution: Based on the type and quantity of plastic, tokens are automatically distributed to the user upon successful QR code scan by the agent. 
+4) Automated token distribution: Based on the type and quantity of plastic, tokens are automatically distributed to the user upon successful QR code scan by the agent. 
 
-Lifecycle tracking: Transparent tracking of plastic waste from collection to recycling or disposal. 
+5) Lifecycle tracking: Transparent tracking of plastic waste from collection to recycling or disposal. 
 
-Verified agent network: A network of verified agents ensures responsible waste handling. 
+6) Verified agent network: A network of verified agents ensures responsible waste handling. 
 
-Agent point purchase: Agents purchase points to distribute to users. 
+7) Agent point purchase: Agents purchase points to distribute to users. 
 
-Community dashboard: Allows users to interact and see collective impact. 
+8) Community dashboard: Allows users to interact and see collective impact. 
 
-Performance Analytics: Agents can track collection statistics. 
+9) Performance Analytics: Agents can track collection statistics. 
 
  
 
@@ -53,17 +53,17 @@ WasteVan is built on the Ethereum blockchain, chosen for its robust smart contra
 
 Technical architecture of EcoConnect:  
 
-Smart Contracts: Written in Solidity, managing token distribution, waste tracking, and agent verification. 
+- Smart Contracts: Written in Solidity, managing token distribution, waste tracking, and agent verification. 
 
-Frontend: Next.js 15 (App Router), React, and TailwindCSS for a responsive user interface. 
+- Frontend: Next.js 15 (App Router), React, and TailwindCSS for a responsive user interface. 
 
-Web3 Integration: ethers.js for interacting with the Ethereum blockchain. 
+- Web3 Integration: ethers.js for interacting with the Ethereum blockchain. 
 
-Authentication: MetaMask wallet integration for secure user access. 
+- Authentication: MetaMask wallet integration for secure user access. 
 
-Data Storage: On-chain for critical transaction data and off-chain for user profiles and non-sensitive information. 
+- Data Storage: On-chain for critical transaction data and off-chain for user profiles and non-sensitive information. 
 
-Security measures and protocols:  
+## Security measures and protocols:  
 
 Smart contract audits by reputable third-party firms. 
 
@@ -77,45 +77,45 @@ WasteVan is designed to be user-friendly, encouraging widespread adoption and pa
 
 How users interact with EcoConnect:  
 
-Sign up and create a profile. 
+* Sign up and create a profile. 
 
-Report plastic waste collection, specifying the type and quantity. 
+* Report plastic waste collection, specifying the type and quantity. 
 
-Receive a generated QR code for the reported waste. 
+* Receive a generated QR code for the reported waste. 
 
-Await notification and collection by a verified agent. 
+* Await notification and collection by a verified agent. 
 
-Receive tokens automatically upon agent QR code scan. 
+* Receive tokens automatically upon agent QR code scan. 
 
-Track the lifecycle of their collected plastic. 
+* Track the lifecycle of their collected plastic. 
 
-View community impact and participate in events. 
+* View community impact and participate in events. 
 
 ## How Agents Interact with WasteVan 
 
-Sign up and create a profile. NB: An agent would be required to buy some points during the registration process 
+* Sign up and create a profile. NB: An agent would be required to buy some points during the registration process 
 
-The agent would have to approved by admin after he creates a profile before he can perform the activities of an agent 
+* The agent would have to approved by admin after he creates a profile before he can perform the activities of an agent 
 
-After approval, he can go around and collect the plastics and reward the users accordingly 
+* After approval, he can go around and collect the plastics and reward the users accordingly 
 
-He can purchase more points when he runs out of points. 
+* He can purchase more points when he runs out of points. 
 
 ## Onboarding process  
 
-Simplified sign-up process with wallet integration. 
+* Simplified sign-up process with wallet integration. 
 
-In-app tutorials on how to report waste and understand the QR code system. 
+* In-app tutorials on how to report waste and understand the QR code system. 
 
-Clear and concise information about the token reward system and its benefits. 
+* Clear and concise information about the token reward system and its benefits. 
 
-Clear and concise information about the benefits of participating. 
+* Clear and concise information about the benefits of participating. 
 
 ## Example use cases and scenarios:  
 
-Household waste collection: A user reports plastic bottles and containers, receives a QR code, and an agent collects them, triggering token distribution. 
+1) Household waste collection: A user reports plastic bottles and containers, receives a QR code, and an agent collects them, triggering token distribution. 
 
-Agent-driven collection: Agents receive notifications for nearby waste reports, efficiently collect waste, and confirm collection with QR code scans. 
+2) Agent-driven collection: Agents receive notifications for nearby waste reports, efficiently collect waste, and confirm collection with QR code scans. 
 
 ## Business Model 
 
